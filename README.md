@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi, I'm Polijan 👋
+
+* I love computers and tinkering with them. Naturally, I like Linux and C and the terminal, stuff like Raspberry Pi, and old machines like 8-bit computers which gave you the ability to peek/poke where you want. Software wants to be free.
+
+* Away from computers, I am a juggler, a tokiponist, and I enjoy being outdoors or stargazing.
 
 <!--
-**notevenodd/notevenodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**poliajan/polijan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
